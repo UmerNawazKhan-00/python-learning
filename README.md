@@ -7,6 +7,7 @@ This repository documents my progress while learning Python programming.
 * Variables
 * Data Types
 * Operators
+* Type Casting
 * Conditions
 * Loops
 * Functions

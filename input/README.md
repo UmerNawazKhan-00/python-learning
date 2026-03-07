@@ -5,6 +5,7 @@
 # The input() function allows a user to enter data.
 # IMPORTANT: input() always returns a STRING.
 
+
 # --------------------------------
 # 1. Basic Input Example
 # --------------------------------
@@ -20,12 +21,12 @@ print("Welcome", name)
 age = input("Enter your age: ")
 print("Your age is:", age)
 
-# Check the data type
+# Check the data type of the input
 print("Data type of age:", type(age))
 
 
 # --------------------------------
-# 3. Multiple Inputs (No Type Casting)
+# 3. Multiple Inputs (Without Type Casting)
 # --------------------------------
 
 name = input("Enter your name: ")
@@ -40,7 +41,6 @@ print("Marks =", marks)
 # --------------------------------
 # 4. Input With Type Casting
 # --------------------------------
-
 # Type casting converts a value from one data type to another.
 
 name = str(input("Enter your name: "))
